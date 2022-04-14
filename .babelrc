@@ -1,0 +1,7 @@
+//Creamos .babelrc y añadimos la estructura
+{ //Para poder compilar
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
